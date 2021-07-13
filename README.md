@@ -1,5 +1,5 @@
 # scrape-to-csv
 
-Coleta dados de sites e disponibiliza-os em formato de tabela para leitura.
+Coleta de dados utilizando a biblioteca Selenium em Python e disponibiliza-os em formato de tabela para leitura.
 
-Todos os testes foram utilizando o site https://quotes.toscrape.com/
+Os testes foram feitos com o site https://quotes.toscrape.com/

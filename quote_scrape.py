@@ -8,7 +8,7 @@ clear = lambda: os.system('cls')
 quotes_list=[]
 authors_list=[]
 clear()
-driver = webdriver.Firefox(executable_path=r"C:\Users\Bona\Documents\Python Projects\geckodriver-v0.29.0-win64\geckodriver.exe")
+driver = webdriver.Firefox(executable_path=r"C:\..\geckodriver.exe")
 driver.maximize_window()
 
 driver.get("https://quotes.toscrape.com/")
